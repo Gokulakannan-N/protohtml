@@ -1,0 +1,47 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color:black;
+    color:thistle;
+    padding: 20px;
+  }
+  
+  
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color:aquamarine;
+    text-decoration: none;
+  }
+  
+  
+  
+  footer {
+    background-color:aqua;
+    color: whitesmoke;
+    padding: 10px;
+    
+  }
+  
+  #home img {
+    width: 200px;
+    height: 200px;
+    border-radius: 45%;
+    
+  }
+  
+  #portfolio{
+    background-color: yellowgreen;
+    padding: 10px;
+  }
+  li{
+    display: inline;
+    margin-right:10px ;
+  }
